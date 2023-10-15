@@ -1,5 +1,9 @@
 # Benchmarking Fastify vs Express
 
+<p align="center">
+  <img src="./assets/images/comparison.png" style="width: 500px;">
+</p>
+
 This repository contains a Dockerized environment for benchmarking Fastify and Express.js web frameworks. The focus is on comparing throughput and database operations.
 
 ## Table of Contents
