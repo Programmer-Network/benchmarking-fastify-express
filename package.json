@@ -1,0 +1,26 @@
+{
+  "name": "benchmarking-fastify-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:fastify": "node src/fastify.js",
+    "start:express": "node src/express.js",
+    "start": "bash -c 'npm run start:fastify & npm run start:express'"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Aleksandar Grbic",
+    "email": "hi@programmer.network",
+    "url": "https://programmer.network"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fastify": "^4.24.2",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
