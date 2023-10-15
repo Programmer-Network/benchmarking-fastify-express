@@ -1,4 +1,4 @@
-# Benchmarking Fastify vs Express
+# 📈 Benchmarking Fastify vs Express
 
 <p align="center">
   <img src="./assets/images/comparison.png" style="width: 500px;">
@@ -8,7 +8,7 @@ This repository contains a Dockerized environment for benchmarking Fastify and E
 
 ## Table of Contents
 
-- [Benchmarking Fastify vs Express](#benchmarking-fastify-vs-express)
+- [📈 Benchmarking Fastify vs Express](#-benchmarking-fastify-vs-express)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Setup](#setup)
